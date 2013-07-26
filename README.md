@@ -53,85 +53,85 @@ Text (txt-)
 
 **txt-00 | Reverse a String** – Enter a string and the program will reverse it and print it out.
 
-**txt-00 | Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+**txt-01 | Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-**txt-00 | Count Vowels** – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+**txt-02 | Count Vowels** – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
-**txt-00 | Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+**txt-03 | Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
-**txt-00 | Count Words in a String** – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
+**txt-04 | Count Words in a String** – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
-**txt-00 | Text Editor** – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
+**txt-05 | Text Editor** – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
 
-**txt-00 | RSS Feed Creator** – A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
+**txt-06 | RSS Feed Creator** – A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
 
-**txt-00 | Post it Notes Program** – A program where you can add text reminders and post them. You can have the program also add popup reminders.
+**txt-07 | Post it Notes Program** – A program where you can add text reminders and post them. You can have the program also add popup reminders.
 
-**txt-00 | Quote Tracker (market symbols etc)** – A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked and the program can show green up and red down arrows to show which direction the stock value has moved.
+**txt-08 | Quote Tracker (market symbols etc)** – A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked and the program can show green up and red down arrows to show which direction the stock value has moved.
 
-**txt-00 | Guestbook / Journal** – A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box.
+**txt-09 | Guestbook / Journal** – A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box.
 
-**txt-00 | News Ticker and Game Scores** – A program which sits on your desktop and aggregates news and game scores from various sources on the net. It then scrolls them across the screen on regular intervals.
+**txt-10 | News Ticker and Game Scores** – A program which sits on your desktop and aggregates news and game scores from various sources on the net. It then scrolls them across the screen on regular intervals.
 
-**txt-00 | Vigenere / Vernam / Ceasar Ciphers** – Functions for encrypting and decrypting data messages. Then send them to a friend.
+**txt-11 | Vigenere / Vernam / Ceasar Ciphers** – Functions for encrypting and decrypting data messages. Then send them to a friend.
 
-**txt-00 | Random Gift Suggestions** – Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one and perhaps places you can get it.
+**txt-12 | Random Gift Suggestions** – Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one and perhaps places you can get it.
 
-**txt-00 | Text to HTML Generator** – Converts text files into web HTML files and stylizes them. Great for making online documentation of standard text documentation.
+**txt-13 | Text to HTML Generator** – Converts text files into web HTML files and stylizes them. Great for making online documentation of standard text documentation.
 
-**txt-00 | CD Key Generator** – Generates a unique key for your applications to use based on some arbitrary algorithm that you can specify. Great for software developers looking to make shareware that can be activated.
+**txt-14 | CD Key Generator** – Generates a unique key for your applications to use based on some arbitrary algorithm that you can specify. Great for software developers looking to make shareware that can be activated.
 
-**txt-00 | Regex Query Tool** – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
+**txt-15 | Regex Query Tool** – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
 Networking(net-)
 ---------
 
 **net-00 | FTP Program** – A file transfer program which can transfer files back and forth from a remote web sever.
 
-**net-00 | Get Atomic Time from Internet Clock** – This program will get the true atomic time from an atomic time clock on the Internet. There are various clocks across the world. Do a search for a list of them.
+**net-01 | Get Atomic Time from Internet Clock** – This program will get the true atomic time from an atomic time clock on the Internet. There are various clocks across the world. Do a search for a list of them.
 
-**net-00 | Chat Application** – Create a chat application that can create simple chat rooms like on Internet Relay Chat (IRC) or a more direct chatting style like MSN. For added complexity, create your own protocol to facilitate this chatting.
+**net-02 | Chat Application** – Create a chat application that can create simple chat rooms like on Internet Relay Chat (IRC) or a more direct chatting style like MSN. For added complexity, create your own protocol to facilitate this chatting.
 
-**net-00 | Fetch Current Weather** – Get the current weather for a given zip/postal code.
+**net-03 | Fetch Current Weather** – Get the current weather for a given zip/postal code.
 
-**net-00 | P2P File Sharing App** – Create a program like LimeWire, FrostWire, Bearshare, or a torrent style application.
+**net-04 | P2P File Sharing App** – Create a program like LimeWire, FrostWire, Bearshare, or a torrent style application.
 
-**net-00 | Port Scanner** – Enter an IP address and a port range where the program will then attempt to find open ports on the given computer by connecting to each of them. On any successful connections mark the port as open.
+**net-05 | Port Scanner** – Enter an IP address and a port range where the program will then attempt to find open ports on the given computer by connecting to each of them. On any successful connections mark the port as open.
 
-**net-00 | Mail Checker (POP3 / IMAP)** – The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email on several accounts at a given interval.
+**net-06 | Mail Checker (POP3 / IMAP)** – The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email on several accounts at a given interval.
 
-**net-00 | Packet Sniffer** – A utility program that will read packets coming in and out of the machine along with related information like destination and payload size.
+**net-07 | Packet Sniffer** – A utility program that will read packets coming in and out of the machine along with related information like destination and payload size.
 
-**net-00 | Country from IP Lookup** – Enter an IP address and find the country that IP is registered in.
+**net-08 | Country from IP Lookup** – Enter an IP address and find the country that IP is registered in.
 
-**net-00 | Whois Search Tool** – Enter an IP or host address and have it look it up through whois and return the results to you.
+**net-09 | Whois Search Tool** – Enter an IP or host address and have it look it up through whois and return the results to you.
 
-**net-00 | Zip / Postal Code Lookup** – Enter a zip or postal code and have it return which city/cities that are in that zip code.
+**net-10 | Zip / Postal Code Lookup** – Enter a zip or postal code and have it return which city/cities that are in that zip code.
 
-**net-00 | Remote Login** – Create a remote desktop style application which can see and control the remote computer (given you have permissions). It may require the use of your own private network and a second computer to test with.
+**net-11 | Remote Login** – Create a remote desktop style application which can see and control the remote computer (given you have permissions). It may require the use of your own private network and a second computer to test with.
 
-**net-00 | Site Checker with Time Scheduling** – An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen.
+**net-12 | Site Checker with Time Scheduling** – An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen.
 
-**net-00 | Small Web Server** – A simple web server that can serve HTML files that contain Javascript and other forms of non-code executing code. Added complexity would be to try and implement streaming video, create a server-side language, or serve up other stream types.
+**net-13 | Small Web Server** – A simple web server that can serve HTML files that contain Javascript and other forms of non-code executing code. Added complexity would be to try and implement streaming video, create a server-side language, or serve up other stream types.
 
-**net-00 | Web Bot** – An automated program which carries out tasks on the web including checking websites, page scraping, and summarization of data or web posting.
+**net-14 | Web Bot** – An automated program which carries out tasks on the web including checking websites, page scraping, and summarization of data or web posting.
 
-Classes
+Classes(cls-)
 ---------
 
-Product Inventory Project – Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value.
+**cls-00 | Product Inventory Project** – Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value.
 
-Movie Store – Manage video rentals and controls when videos are checked out, due to return, overdue fees and for added complexity create a summary of those accounts which are overdue for contact.
+**cls-01 | Movie Store** – Manage video rentals and controls when videos are checked out, due to return, overdue fees and for added complexity create a summary of those accounts which are overdue for contact.
 
-Airline / Hotel Reservation System – Create a reservation system which books airline seats or hotel rooms. It charges various rates for particular sections of the plane or hotel. Example, first class is going to cost more than coach. Hotel rooms have penthouse suites which cost more. Keep track of when rooms will be available and can be scheduled.
+**cls-02 | Airline / Hotel Reservation System** – Create a reservation system which books airline seats or hotel rooms. It charges various rates for particular sections of the plane or hotel. Example, first class is going to cost more than coach. Hotel rooms have penthouse suites which cost more. Keep track of when rooms will be available and can be scheduled.
 
-Student Grade Book Application – Keep track of students (with a student class that has their name, average, and scores) in a class and their grades. Assign their scores on tests and assignments to the students and figure out their average and grade for the class. For added complexity put the students on a bell curve.
+**cls-03 | Student Grade Book Application** – Keep track of students (with a student class that has their name, average, and scores) in a class and their grades. Assign their scores on tests and assignments to the students and figure out their average and grade for the class. For added complexity put the students on a bell curve.
 
-Bank Account Manager - Create a class called “Account” which will be an abstract class for three other classes called “CheckingAccount”, “SavingsAccount” and “BusinessAccount”. Manage credits and debits from these accounts through an ATM style program.
+**cls-04 | Bank Account Manager** - Create a class called “Account” which will be an abstract class for three other classes called “CheckingAccount”, “SavingsAccount” and “BusinessAccount”. Manage credits and debits from these accounts through an ATM style program.
 
-Library Catalog – Create a book class with a title, page count, ISBN and whether or not it is checked out or not. Manage a collection of various books and allow the user to check out books or return books. For added complexity generate a report of those books overdue and any fees. Also allow users to put books on reserve.
+**cls-05 | Library Catalog** – Create a book class with a title, page count, ISBN and whether or not it is checked out or not. Manage a collection of various books and allow the user to check out books or return books. For added complexity generate a report of those books overdue and any fees. Also allow users to put books on reserve.
 
-Threading
+Threading(thr-)
 ---------
 
 Create A Progress Bar for Downloads – Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
